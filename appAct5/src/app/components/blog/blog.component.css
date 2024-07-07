@@ -1,3 +1,34 @@
 section{
     padding: 20px 0px;
 }
+
+.input{
+    display: flex;
+    gap: 20px;
+}
+
+.espacioSup{
+    padding: 20px 0px 0px 0px;
+}
+
+.espacioInf{
+    padding: 0px 0px 20px 0px;
+}
+
+.filaSuperior{
+    display: flex;
+    justify-content: space-between;
+}
+
+button{
+    padding: 5px;
+}
+
+.cuadroInferior{
+    display: flex;
+    justify-content: space-between;
+}
+
+.error{
+    color: red;
+}
