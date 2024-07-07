@@ -32,3 +32,13 @@ button{
 .error{
     color: red;
 }
+
+.noticia{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+ul{
+    list-style: none;
+}
